@@ -1,0 +1,64 @@
+<!doctype html>
+
+<html>
+  <head>
+    <title>Gareth Bale Tribute</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <!--bootstrap--->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  </head>
+  <body id="main">
+
+    <h1 id="title">Gareth Bale</h1>
+    <p id="subTitle">The Cannon</p>
+
+    <div id="img-div">
+      <img id="image" src="https://cdn-02.independent.ie/sport/soccer/article36952909.ece/d31fa/AUTOCROP/w620/ipanews_c7ef2815-e62e-4b59-a269-38813bd77901_1"/>
+      <p>Gareth Bale scoring a bycicle kick to take a 2-1 the lead in the UFEA Champion League Final 2017-2018</p>
+    </div>
+
+    <p id="tribute-info">A Timeline of Bale's career</p>
+    <div id="one">
+      <ul> Southampton: "The Beginning"
+        <li>April 2006 - At the age of 16, Gareth Bale becomes the seond youngest player ever to play for Southampton, starting at left-back again Milwall</li>
+        <li>Aguest 2006 - Bale scores his first league goal, a free kick, against Derby. Beginning his free kick reputation</li>
+        <li>May 2006 - Bale ends the season injured, tallying 45 appearance with 5 goals in his first season</li>
+      </ul>
+    </div>
+    <div id="two">
+      <ul> Tottenham Hotspurs: "The Breakout"
+        <li>May 2006 - Bale signs for Tottenham for £5 million</li>
+        <li>Early 06/07 Season - Bale begins his Tottenham career with 3 goals in first 4 appearance for the club, still at left back</li>
+        <li>Decemeber 2006 - Ligament injury on his right ankle sidelines Bale for the rest of the season and most of the next</li>
+
+        <li>September 2009 - After a successful surgery, Bale returns to the pitch. However now must battle for playing time with inform Assou-Ekotto</li>
+        <li>Late 09/10 Season - Bale's form picks up, winning Player of the Round and Man of the Match awards</li>
+        <li>April 2010 - Bale wins Premier League Player of the Month, helping Tottenham make Champions League Football</li>
+
+        <li>Early 10/11 Season - Bale's good form sees him be moved up the pitch to Left Wing, puting him in a better position to show off his attacking talent</li>
+        <li>October 2010 - Bale scores his first hat trick in the UCL against Inter Milan, making his mark on the international stage</li>
+        <li>April 2011 - Bale wins the PFA Player's Player of the Year</li>
+        <li>January 2012 - Bale makes UEFA Team of the Year 2011 for the first time</li>
+        <li>2012/13 Season - Having his career best, Bale scores 21 goals in 38 appearance, but Spurs end 1 point from top four, missing UCL again</li>
+      </ul>
+    </div>
+    <div id="three">
+      <ul> Real Madrid: "The Glory"
+        <li>September 2013 - Bale signs for Real Madrid for a world record fee of £85.1 million</li>
+        <li>April 2014 - In the Copa del Rey Final, tied with minutes left in the match, Bale scores one of his career best goals. Carrying the ball across the pitch, outpacing defenders and beating the goalkeeper</li>
+        <li>May 2014 - In the UCL Finals, at extra time, Bale scores to put Real Madrid ahead and win them their 10th European Cup</li>
+        <li>Decemeber 2014 - Bale scores and wins the FIFA Club Word Cup</li>
+        <li>March 2016 - Scoring his 43rd La Liga goal to become the highest scoring Brit in the competition's history</li>
+        <li>May 2016 - Bale wins his second UCL Cup</li>
+        <li>May 2017 - While being plagued by injuries all season, Bale would return to the club to win his third UCL Cup</li>
+        <li>May 2018 - Bale scorce a bycicle kick against Liverpool to take Real Madrid up 2-1 and win his forth UCL Cup</li>
+      </ul>
+    </div>
+
+    <p id="link">For a more detail review of Bale's Career vist his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Gareth_Bale" target="_blank">Wikipedia Page.</a></p>
+
+  </body>
+</html>
